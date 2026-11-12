@@ -1,3 +1,5 @@
+![Abhinav Saini — Cybersecurity and AI](assets/profile-banner.svg)
+
 <h1 align="center">Hi 👋, I'm Abhinav Saini</h1>
 <h3 align="center">Cybersecurity Enthusiast | Digital Forensics | Ethical Hacking & Security Research</h3>
 
