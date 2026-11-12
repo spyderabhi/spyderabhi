@@ -60,3 +60,21 @@
 I'm open to discussions about cybersecurity, practical security research, project collaboration, and industry learning opportunities.
 
 **Email:** [Abhinavsaini0905@gmail.com](mailto:Abhinavsaini0905@gmail.com)
+
+
+---
+
+### 📦 GitHub Project Portfolio
+
+| Project | Focus |
+| --- | --- |
+| [SpyderHash](https://github.com/spyderabhi/SpyderHash) | Offline hash-format identification with automated tests |
+| [WAFinity](https://github.com/spyderabhi/ADVANCED--WAF-WAFinity-main) | Experimental hybrid web application firewall |
+| [Car Evaluation ML](https://github.com/spyderabhi/Car-Evaluation-Machine-Learning-Project) | Machine-learning classifier with a Flask interface |
+| [Education ML](https://github.com/spyderabhi/ML-MODEL-FLASK-BASED-APP---EDUCATION) | Educational enrollment prediction prototype |
+| [Expense Tracker](https://github.com/spyderabhi/Expense-Tracker-App) | Full-stack expense management application |
+| [Vehicle Management System](https://github.com/spyderabhi/Vechile-Management-System-By-Spyder) | Java desktop vehicle management demonstration |
+| [Input Monitoring Lab](https://github.com/spyderabhi/KEYLOGGER-BY-SPYDER-) | Authorized security research on keyboard input monitoring |
+
+**Project validation note:** Automated checks vary by repository. Source compilation is not equivalent to full integration testing.
+
